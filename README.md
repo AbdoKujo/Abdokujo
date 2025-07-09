@@ -20,21 +20,9 @@
 
 <h3 align="center">I’m a student in Computer Science at the Faculty of Sciences and Techniques of Tangier (FSTT), specializing in Application Development Engineering (IDAI)</h3>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AbdoKujo/count.svg?"  />
-</div>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">- 🔭 I'm working as an aspiring software engineer, building a strong foundation in software engineering basics.<br><br>- 📚  I'm currently learning advanced concepts in object-oriented programming, web development, and database management.<br><br>- ⚡  In my free time, I love to learn new skills and explore innovative ideas.</p>
-
-###
 
 <h3 align="left">🌟 What I'm Passionate About</h3>
 
