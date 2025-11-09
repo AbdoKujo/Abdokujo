@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="center">I’m a student in Computer Science at the Faculty of Sciences and Techniques of Tangier (FSTT), specializing in Application Development Engineering (IDAI)</h3>
+<h3 align="center">I’m a student in Computer Science </h3>
 
 
 ###
